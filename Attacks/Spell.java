@@ -29,5 +29,7 @@ public abstract class Spell extends Attack {
     public abstract int interactWithTarget(RPGCharacter target, int attackModifier);
 
 
+
 }
+
 
